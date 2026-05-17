@@ -1,0 +1,5 @@
+uti,reporting_counterparty,counterparty,trade_date,notional,product_type
+TRADE001G123456789,GoldmanSachs,ClientA,2025-01-10,1000000,IRS
+TRADE002G123456789,GoldmanSachs,ClientB,2025-01-11,2500000,CDS
+invalid_uti,GoldmanSachs,ClientC,2025-01-12,500000,IRS
+TRADE001G123456789,GoldmanSachs,ClientA,2025-01-10,1000000,IRS  
